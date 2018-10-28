@@ -1,0 +1,11 @@
+{
+  "name": "collaborationlenses.com",
+  "vapid": {
+  },
+  "scripts": {
+    "start": "vapid start ."
+  },
+  "dependencies": {
+    "vapid-cli": "^0.2.2"
+  }
+}
